@@ -1,0 +1,76 @@
+body{
+    text-align: center;
+    width: 100%;
+}
+
+#title{
+    width: 100%;
+    height: auto;
+    max-height: 200px;
+    object-fit: cover;
+}
+
+#header a{
+    margin-top: 80px;
+}
+
+a{
+    text-decoration: none; 
+    color: black;  
+}
+
+#header{
+    margin-bottom: 40px;
+}
+
+#header button{
+    margin-left: 3%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 80px;
+    height: 40px;
+}
+
+
+
+#header button:first-child{
+    margin-left: 0px;
+}
+
+#answerForm{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+#hintBox{
+    margin-bottom:100px;
+    height: 300px;
+}
+
+#hintText{
+    font-size: 20px;
+}
+
+
+#quizImg{
+    width: 90%;
+    margin-top: 60px;
+}
+
+#hintBox button{
+    margin-left: 30px;
+}
+
+#hintText{
+    margin: 40px auto;
+}
+
+main{
+    position: relative;
+    width: 100%;
+}
+
+#googleForm{
+    position: absolute;
+    width: 100%;
+}
