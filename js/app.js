@@ -17,27 +17,33 @@ document.addEventListener('DOMContentLoaded', () => {
         {   id: 0, 
             answer: "ふれいしあ",
             src:"https://docs.google.com/forms/d/e/1FAIpQLSf2FVI6X03VW8DfxAAYUGgmcLyagyNWLFgeLamREgTG6EKngg/viewform?embedded=true",
-            hint:hint0
+            hint:hint0,
+            img:"./assets/nazo1"
         },{ id: 1, 
             answer: "かろる",
             src:"https://docs.google.com/forms/d/e/1FAIpQLSetdY0-WXWiU935T7sa9570tHNfIKyZ98973v-R2pjxpDDduQ/viewform?embedded=true",
-            hint:hint1
+            hint:hint1,
+            img:"./assets/nazo2"
         },{ id: 2, 
             answer: "ろざりー",
             src:"https://docs.google.com/forms/d/e/1FAIpQLSciB9li1luoz6ywYT1LySv9wmjY4vMp5L_VpcoiLJjH9WOksQ/viewform?embedded=true",
-            hint:hint2
+            hint:hint2,
+            img:"./assets/nazo3"
         },{ id: 3, 
             answer: "ぷりしら",
             src:"https://docs.google.com/forms/d/e/1FAIpQLSdJ9HRjR06zX0203V6T59sv1sgKGIILlZcfraURPs6BZOMFew/viewform?embedded=true",
-            hint:hint3
+            hint:hint3,
+            img:"./assets/nazo4"
         },{ id: 4, 
             answer: "べる",
             src:"https://docs.google.com/forms/d/e/1FAIpQLSdziy5_jqLEqeC9jrxsKZBS5yJuNgjGXM4Bdy-W0HpWKmQigA/viewform?embedded=true",
-            hint:hint4
+            hint:hint4,
+            img:"./assets/nazo5"
         },{ id: 5, 
             answer: "あいびー",
             src:"https://docs.google.com/forms/d/e/1FAIpQLScsPmYyllk0dZfRaTYK4-aIjUlR82Uic-L2EWpTBZekcr_uWg/viewform?embedded=true",
-            hint:hint5
+            hint:hint5,
+            img:"./assets/nazo6"
         },
     ];
 
