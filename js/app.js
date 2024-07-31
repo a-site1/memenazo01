@@ -47,9 +47,9 @@ document.addEventListener('DOMContentLoaded', () => {
             img:"./assets/nazo6.jpg"
         },{ id: 6, 
             answer: "あむれーと",
-            src:"https://docs.google.com/forms/d/e/1FAIpQLScsPmYyllk0dZfRaTYK4-aIjUlR82Uic-L2EWpTBZekcr_uWg/viewform?embedded=true",
+            src:"https://forms.gle/8XVZxUi1zVRoQm2R9",
             hint:hint6,
-            img:"./assets/nazo6.jpg"
+            img:"./assets/nazo7.jpg"
         },
     ];
 
