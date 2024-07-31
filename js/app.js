@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const hint3 = ["キャラクターはとある法則で繋がってる","しりとり？","解答欄の下の矢印も気になる・・・"];
     const hint4 = ["この配置に見覚えある？","上位ギルド所属の方はお馴染み","上はグラベンスティン、右はウィスケルケー,,,"];
     const hint5 = ["#で囲まれた数字見覚えある？","「#数字#」はチャットに打ち込むととけねこスタンプの感情を表してくれる記号！","感情が4つ並んでいることに気づくと、とある4文字熟語が連想される","緑の丸は反対を向いている・・・"];
+    const hint6 = ["ヒント１","ヒント2","ヒント３","ヒント４"];
 
     const quizList = [
         
@@ -43,6 +44,11 @@ document.addEventListener('DOMContentLoaded', () => {
             answer: "あいびー",
             src:"https://docs.google.com/forms/d/e/1FAIpQLScsPmYyllk0dZfRaTYK4-aIjUlR82Uic-L2EWpTBZekcr_uWg/viewform?embedded=true",
             hint:hint5,
+            img:"./assets/nazo6.jpg"
+        },{ id: 6, 
+            answer: "あむれーと",
+            src:"https://docs.google.com/forms/d/e/1FAIpQLScsPmYyllk0dZfRaTYK4-aIjUlR82Uic-L2EWpTBZekcr_uWg/viewform?embedded=true",
+            hint:hint6,
             img:"./assets/nazo6.jpg"
         },
     ];
